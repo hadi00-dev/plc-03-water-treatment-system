@@ -5,7 +5,7 @@
 ## 1.0 Project Overview
 This repository contains the software assets and Functional Design Specification (FDS) for a modular water treatment control valve. The system integrates with a host controller to cycle a servo-driven, cam-operated valve through distinct treatment phases (Fill, Drain, and Flush) utilizing precise timing logic and position feedback.
 
-**Target Hardware/Environment:** RSLogix 500 Micro Starter Lite - free license
+**Target Hardware/Environment:** RSLogix 500 Micro Starter Lite - free license                                                                                                                                                                                                                                                                                               
 **Programming Language:** Ladder Diagram (LD)
 
 ## 2.0 System Architecture & Process Flow
